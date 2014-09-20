@@ -1,1 +1,2 @@
 Explain what the upstream remote is usually used for, in your own words.
+The term 'Upstream Remote' is used to describe the remote repository that has changes being push to it. It is used as a way for people to coordinate their work.
