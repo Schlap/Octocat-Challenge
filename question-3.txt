@@ -1,2 +1,1 @@
-Explain what a branch is, in your own words.
 A branch is a movable pointer that points towards your commits. You are always given a default branch called master where your changes are saved. Creating new branches allows youto make changes to your repository without changing the original commits on the default branch.
