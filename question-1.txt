@@ -1,2 +1,1 @@
-Explain what git clone does in your own words.
 The command 'git clone' clones a remote repository into a new directoy.
